@@ -3,3 +3,5 @@ requests
 pandas
 openpyxl
 python-dotenv
+selenium
+webdriver-manager
